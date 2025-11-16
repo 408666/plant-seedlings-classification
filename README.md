@@ -1,5 +1,7 @@
 # Plant Seedlings Classification
 
+[中文版本 (Chinese Version)](./README_zh.md)
+
 This repository contains the implementation of a convolutional neural network for classifying plant seedlings in 12 classes.
 The ability to do so effectively can mean better crop yields and better stewardship of the environment.
 
